@@ -1,12 +1,6 @@
-# AdvancedRocketry
-Advanced Rocketry is a mod about space, exploration, and resources
-
-<b>Advanced Rocketry does not support anything other than Forge at this point - be it Fabric (for 1.13+) or Sponge or similar for 1.12</b> 
-
-<b>Please be aware Sponge compatibility issues may never be fixed.</b>
-
-Discord link: https://discord.gg/BbBUmbX
-
+# LibreRocketry
+a fork of advanced rocketry with plans to add new features and content
+the rest of reed me is of ar
 Current Features:
 
 
